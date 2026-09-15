@@ -2,7 +2,6 @@
 
 # Ads.txt / App-ads.txt
 
-
 The mission of the ads.txt project is simple: Increase transparency in the programmatic advertising ecosystem. ads.txt stands for Authorized Digital Sellers and is a simple, flexible and secure method that publishers and distributors can use to publicly declare the companies they authorize to sell their digital inventory.
 
 By creating a public record of Authorized Digital Sellers, ads.txt will create greater transparency in the inventory supply chain, and give publishers control over their inventory in the market, making it harder for bad actors to profit from selling counterfeit inventory across the ecosystem. As publishers adopt ads.txt, buyers will be able to more easily identify the Authorized Digital Sellers for a participating publisher, allowing brands to have confidence they are buying authentic publisher inventory.
